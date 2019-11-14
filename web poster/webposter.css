@@ -1,0 +1,906 @@
+
+h1 {
+
+position: absolute;
+top:426px;
+left:60px;
+font-family: trajan-pro-3, serif;
+font-weight: 600;
+font-style: normal;
+font-size: 45px;
+color: rgb(240,78,54);
+line-height: 53px;
+
+}
+
+p {
+
+position: absolute;
+top:566px;
+left:60px;
+font-family: Helvetica, Arial;
+font-style: normal;
+font-size: 19px;
+color: rgb(240,78,54);
+line-height: 22px;
+
+}
+
+p2 {
+
+position: absolute;
+top:670px;
+left:60px;
+font-family: Helvetica, Arial;
+font-style: normal;
+font-size: 19px;
+color: rgb(240,78,54);
+line-height: 22px;
+
+}
+
+.bigredcircle {
+
+width: 375px;
+height: 375px;
+position: absolute;
+top: 405px;
+left: 1055px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+}
+
+.whitecircleinsidebigred {
+
+width: 160px;
+height: 160px;
+position: absolute;
+top: 510px;
+left: 1165px;
+background-color: rgb(255,255,255);
+border-radius: 50%;
+
+}
+
+.trianglebottomright {
+
+width: 0px;
+height: 0px;
+position: absolute;
+top: 195px;
+left: 1240px;
+border-bottom: 185px solid rgb(240,78,54);
+border-right: 185px solid transparent;
+
+}
+
+
+.trianglebottomleft {
+
+width: 0px;
+height: 0px;
+position: absolute;
+top: 195px;
+left: 1055px;
+border-bottom: 185px solid rgb(240,78,54);
+border-right: 185px solid transparent;
+
+}
+
+.triangleupright {
+
+width: 0px;
+height: 0px;
+position: absolute;
+top: 10px;
+left: 1240px;
+border-bottom: 185px solid rgb(240,78,54);
+border-right: 185px solid transparent;
+
+}
+
+.triangleupleft {
+
+width: 0px;
+height: 0px;
+position: absolute;
+top: 10px;
+left: 1055px;
+border-bottom: 185px solid rgb(240,78,54);
+border-right: 185px solid transparent;
+
+}
+
+.verticallinefortriangle {
+
+width: 4px;
+height: 185px;
+position: absolute;
+top: 195px;
+left: 1421px;
+background-color: rgb(240,78,54);
+
+
+}
+
+.horizontallinefortriangle {
+
+width: 4px;
+height: 185px;
+position: absolute;
+top: -80px;
+left: 1146px;
+background-color: rgb(240,78,54);
+transform: rotate(90deg);
+
+}
+
+
+.smallwhitecircleforbigred {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 570px;
+left: 1350px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.redcirclenexttotriangles {
+
+width: 225px;
+height: 225px;
+position: absolute;
+top: 10px;
+left: 810px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.whitecircleforredcircle {
+
+width: 180px;
+height: 180px;
+position: absolute;
+top: 32px;
+left: 832px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.circle1row3 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 10px;
+left: 727px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.circle2row3 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 85px;
+left: 727px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.circle3row3 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 160px;
+left: 727px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.circle1row2 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 10px;
+left: 652px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.circle2row2 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 85px;
+left: 652px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.circle3row2 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 160px;
+left: 652px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.circle1row1 {
+
+width: 50px;
+height: 50px;
+position: absolute;
+top: 10px;
+left: 577px;
+border: 4px solid rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.circle2row1 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 85px;
+left: 577px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.circle3row1 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 160px;
+left: 577px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.redstroke {
+
+width: 140px;
+height: 140px;
+position: absolute;
+top: 517px;
+left: 1171px;
+border: 4px solid rgb(240,78,54);
+border-radius: 50%	
+
+}
+
+.redstroke2 {
+
+width: 131px;
+height: 131px;
+position: absolute;
+top: 258px;
+left: 896px;
+border: 4px solid rgb(240,78,54);
+border-radius: 50%	
+
+}
+
+.circleinsideredstroke2 {
+
+width: 65px;
+height: 65px;
+position: absolute;
+top: 326px;
+left: 929px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.square1 {
+
+width: 140px;
+height: 140px;
+position: absolute;
+top: 258px;
+left: 749px;
+background-color: rgb(240,78,54);
+
+}
+
+.circle1square1 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 268px;
+left: 759px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.circle2square1 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 333px;
+left: 759px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.circle3square1 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 333px;
+left: 824px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.redcirclesquare {
+
+width: 135px;
+height: 135px;
+position: absolute;
+top: 403px;
+left: 749px;
+background-color: rgb(240,78,54);
+border-radius: 50%	
+
+}
+
+.whitecirclesquare {
+
+width: 75px;
+height: 75px;
+position: absolute;
+top: 433px;
+left: 778px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.square4 {
+
+width: 140px;
+height: 140px;
+position: absolute;
+top: 398px;
+left: 889px;
+background-color: rgb(240,78,54);
+
+}
+
+.square4circle1 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 408px;
+left: 899px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.square4circle2 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 408px;
+left: 899px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.square4circle3 {
+
+width: 55px;
+height: 55px;
+position: absolute;
+top: 470px;
+left: 964px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.redstroke3 {
+
+width: 110px;
+height: 110px;
+position: absolute;
+top: 552px;
+left: 894px;
+border: 4px solid rgb(240,78,54);
+border-radius: 50%	
+
+}
+
+.redcircleinstroke {
+
+width: 95px;
+height: 95px;
+position: absolute;
+top: 564px;
+left: 905px;
+background-color: rgb(240,78,54);
+border-radius: 50%	
+
+}
+
+.rectanglestroke {
+
+width: 172px;
+height: 85px;
+position: absolute;
+top: 680px;
+left: 866px;
+border: 4px solid rgb(240,78,54);
+
+}
+
+.smalltriangle1 {
+
+width: 0px;
+height: 0px;
+position: absolute;
+top: 683px;
+left: 957px;
+border-bottom: 86px solid rgb(240,78,54);
+border-right: 86px solid transparent;
+
+}
+
+.smalltriangle2 {
+
+width: 0px;
+height: 0px;
+position: absolute;
+top: 683px;
+left: 870px;
+border-bottom: 86px solid rgb(240,78,54);
+border-right: 86px solid transparent;
+
+}
+
+
+@media (max-width: 1024px) {
+
+.firstcirclecell {
+
+width: 157px;
+height: 157px;
+position: absolute;
+top: 10px;
+left: 10px;
+background-color: rgb(240,78,54);
+border-radius: 50%
+
+}
+
+.righttriangle {
+
+width: 0px;
+height: 0px;
+position: absolute;
+top: 15px;
+left: 185px;
+border-bottom: 180px solid rgb(240,78,54);
+border-right: 166px solid transparent;
+
+}
+
+.righttriangle2 {
+
+width: 0px;
+height: 0px;
+position: absolute;
+top: 15px;
+left: 273px;
+border-bottom: 100px solid rgb(240,78,54);
+border-right: 80px solid transparent;
+
+}
+
+.verticalcell {
+
+width: 3px;
+height: 80px;
+position: absolute;
+top: 115px;
+left: 350px;
+background-color: rgb(240,78,54);
+
+}
+
+.horizontalcell {
+
+width: 3px;
+height: 88px;
+position: absolute;
+top: -27px;
+left: 228px;
+background-color: rgb(240,78,54);
+transform: rotate(90deg);
+
+}
+
+h1 {
+
+position: absolute;
+top:218px;
+left:185px;
+font-size: 29px;
+color: rgb(240,78,54);
+line-height: 38px;
+
+}
+
+p {
+
+position: absolute;
+top:318px;
+left:185px;
+font-family: Helvetica, Arial;
+font-style: normal;
+font-size: 16px;
+color: rgb(240,78,54);
+line-height: 20px;
+
+}
+
+p2 {
+
+position: absolute;
+top:404px;
+left:185px;
+font-family: Helvetica, Arial;
+font-style: normal;
+font-size: 16px;
+color: rgb(240,78,54);
+line-height: 20px;
+
+}
+
+.bigredcircle {
+
+width: 205px;
+height: 205px;
+position: absolute;
+top: 500px;
+left: 146px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+}
+
+.whitecircleforredcircle {
+
+width: 90px;
+height: 90px;
+position: absolute;
+top: 558px;
+left: 204px;
+background-color: rgb(255,255,255);
+border-radius: 50%
+
+}
+
+.redstroke3 {
+
+width: 70px;
+height: 70px;
+position: absolute;
+top: 565px;
+left: 211px;
+border: 3px solid rgb(240,78,54);
+border-radius: 50%	
+
+}
+
+.redstroke {
+
+width: 144px;
+height: 144px;
+position: absolute;
+top: 390px;
+left: 10px;
+border: 3px solid rgb(240,78,54);
+border-radius: 50%	
+
+}
+
+.redcircleinstroke {
+
+width: 120px;
+height: 120px;
+position: absolute;
+top: 406px;
+left: 26px;
+background-color: rgb(240,78,54);
+border-radius: 50%	
+
+}
+
+.circle1cell {
+width: 40px;
+height: 40px;
+position: absolute;
+top: 185px;
+left: 10px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+
+}
+
+.circle2cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 185px;
+left: 60px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+}
+
+.circle3cell {
+
+width: 37px;
+height: 37px;
+position: absolute;
+top: 185px;
+left: 110px;
+border: solid rgb(240,78,54);
+border-radius: 50%;
+
+
+}
+
+.circle4cell {
+
+width: 37px;
+height: 37px;
+position: absolute;
+top: 235px;
+left: 10px;
+border: 3px solid rgb(240,78,54);
+border-radius: 50%;
+
+
+}
+
+.circle5cell{
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 235px;
+left: 60px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+
+}
+
+.circle6cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 235px;
+left: 110px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+}
+
+.circle7cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 285px;
+left: 10px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+}
+
+.circle8cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 285px;
+left: 60px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+}
+
+.circle9cell{
+
+width: 37px;
+height: 37px;
+position: absolute;
+top: 285px;
+left: 110px;
+border: 3px solid rgb(240,78,54);
+border-radius: 50%;
+
+}
+
+.circle10cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 335px;
+left: 10px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+}
+
+.circle11cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 335px;
+left: 60px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+}
+
+.circle12cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 335px;
+left: 110px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+
+}
+
+.box1cell {
+
+height: 62px;
+width: 62px;
+position: absolute;
+top: 560px;
+left: 10px;
+background-color: rgb(240,78,54);
+
+}
+
+.box2cell {
+
+height: 62px;
+width: 62px;
+position: absolute;
+top: 622px;
+left: 72px;
+background-color: rgb(240,78,54);
+
+}
+
+.circle1box1cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 570px;
+left: 21px;
+background-color: rgb(255,255,255);
+border-radius: 50%;
+
+}
+
+.circle2box2cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 632px;
+left: 83px;
+background-color: rgb(255,255,255);
+border-radius: 50%;
+
+}
+
+.redcirclebox2cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 570px;
+left: 83px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+
+}
+
+.redcirclebox3cell {
+
+width: 40px;
+height: 40px;
+position: absolute;
+top: 632px;
+left: 21px;
+background-color: rgb(240,78,54);
+border-radius: 50%;
+
+
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
