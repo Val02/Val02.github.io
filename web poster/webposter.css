@@ -2,40 +2,40 @@
 h1 {
 
 position: absolute;
-top:426px;
+top:315px;
 left:60px;
 font-family: trajan-pro-3, serif;
 font-weight: 600;
 font-style: normal;
-font-size: 45px;
+font-size: 48px;
 color: rgb(240,78,54);
-line-height: 53px;
+line-height: 55px;
 
 }
 
 p {
 
 position: absolute;
-top:566px;
+top:460px;
 left:60px;
 font-family: Helvetica, Arial;
 font-style: normal;
-font-size: 19px;
+font-size: 21px;
 color: rgb(240,78,54);
-line-height: 22px;
+line-height: 24px;
 
 }
 
 p2 {
 
 position: absolute;
-top:670px;
+top:574px;
 left:60px;
 font-family: Helvetica, Arial;
 font-style: normal;
-font-size: 19px;
+font-size: 21px;
 color: rgb(240,78,54);
-line-height: 22px;
+line-height: 24px;
 
 }
 
