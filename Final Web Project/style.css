@@ -1,0 +1,57 @@
+.cookiewrapper {
+position: relative;
+
+
+
+}
+
+.cookiewhole {
+position: absolute;
+background-image:url(cookiewhole.png);
+background-size: contain;
+width:100px;
+height: 100px;
+
+
+
+
+}
+
+.cookie1 {
+position: absolute;
+background-image:url(cookiehalf1.png);
+background-size: contain;
+width:50px;
+height: 100px;
+
+}
+
+.cookie2 {
+position: absolute;
+background-image:url(cookiehalf2.png);
+background-size: contain;
+width:50px;
+height: 100px;
+
+
+
+}
+
+.fortune {
+position: absolute;
+
+
+
+
+}
+
+.hide {
+opacity:0;
+
+
+
+
+}
+
+
+
