@@ -1,16 +1,85 @@
+h1 {
+position: absolute;
+width: 100%;
+text-align:center;
+top:-30px;
+font-family: ff-duper-web-pro, sans-serif;
+font-weight: 400;
+font-size: 115px;
+font-style: normal;
+color: rgb(0,0,0);
+}
+
+h2 {
+position: absolute;
+width: 100%;
+text-align:center;
+top:180px;
+font-family: ff-duper-web-pro, sans-serif;
+font-size: 40px;
+font-weight: 37;
+font-style: normal;
+color: rgb(0,0,0);
+}
+
+h3 {
+position: absolute;
+width: 100%;
+text-align:center;
+top:1300px;
+font-family: ff-duper-web-pro, sans-serif;
+font-size: 40px;
+font-weight: 37;
+font-style: normal;
+color: rgb(0,0,0);
+}
+
+h4 {
+position: absolute;
+width: 100%;
+text-align:center;
+top:2015px; 
+font-family: ff-duper-web-pro, sans-serif;
+font-size: 40px;
+font-weight: 37;
+font-style: normal;
+color: rgb(0,0,0);
+}
+
+h5 {
+position: absolute;
+width: 100%;
+text-align:center;
+top:3550px;
+font-family: ff-duper-web-pro, sans-serif;
+font-size: 40px;
+font-weight: 37;
+font-style: normal;
+color: rgb(0,0,0);
+}
+
+
+
+
+
 .cookiewrapper {
 position: relative;
-
-
-
+top:300px;
+margin-left: auto;
+margin-right: auto;
+width: 200px;
+height: 200px;
 }
+
 
 .cookiewhole {
 position: absolute;
 background-image:url(cookiewhole.png);
 background-size: contain;
-width:100px;
-height: 100px;
+background-repeat:no-repeat;
+width:200px;
+height: 200px;
+
 
 
 
@@ -19,38 +88,202 @@ height: 100px;
 
 .cookie1 {
 position: absolute;
+left:0;
 background-image:url(cookiehalf1.png);
 background-size: contain;
-width:50px;
-height: 100px;
-
+background-repeat:no-repeat;
+width:200px;
+height: 200px;
+transition: left 0.25s;
 }
 
 .cookie2 {
 position: absolute;
+left:0;
 background-image:url(cookiehalf2.png);
 background-size: contain;
-width:50px;
-height: 100px;
+background-repeat:no-repeat;
+width:200px;
+height: 200px;
+transition: left 0.25s;
 
 
 
+
+}
+
+.cookie1.open {
+left:-115px;
+}
+
+.cookie2.open {
+left:115px;
 }
 
 .fortune {
 position: absolute;
+background-size: contain;
+background-repeat:no-repeat;
+width:300px;
+height:300px;
+top:-107px;
+left:-54px;
+}
+
+.wrappertopspace {
+margin-top: 135px;
 
 
 
 
 }
 
+
+.five {
+background-image:url(fortune5.png);	
+width:300px;
+height:300px;
+}
+
+.six {
+background-image:url(fortune6.png);	
+width:300px;
+height:300px;
+}
+
+
+.twelve {
+background-image:url(fortune12.png);	
+width:300px;
+height:300px;
+}
+
+.sixteen {
+background-image:url(fortune16.png);	
+width:300px;
+height:300px;
+}
+
+.seventeen {
+background-image:url(fortune17.png);	
+width:300px;
+height:300px;
+}
+
+
+.seven {
+background-image:url(fortune7.png);	
+width:300px;
+height:300px;
+}
+
+.eight {
+background-image:url(fortune8.png);	
+margin-top: 50px;
+width:300px;
+height:300px;
+}
+
+.nineteen {
+background-image:url(fortune19.png);	
+width:300px;
+height:300px;
+}
+
+
+.one {
+background-image:url(fortune1.png);
+width:300px;
+height:300px;
+}
+
+.two {
+background-image:url(fortune2.png);	
+width:300px;
+height:300px;
+}
+
+.four {
+background-image:url(fortune4.png);	
+width:300px;
+height:300px;
+}
+
+.ten {
+background-image:url(fortune10.png);	
+width:300px;
+height:300px;
+}
+
+.fifteen {
+background-image:url(fortune15.png);	
+width:300px;
+height:300px;
+}
+
+
+
+.eighteen {
+background-image:url(fortune18.png);	
+width:300px;
+height:300px;
+}
+
+
+
+.twenty {
+background-image:url(fortune20.png);	
+width:300px;
+height:300px;
+}
+
+
+
+.three {
+background-image:url(fortune3.png);	
+width:300px;
+height:300px;
+}
+
+
+
+
+
+
+.nine {
+background-image:url(fortune9.png);	
+width:300px;
+height:300px;
+}
+
+
+.elleven {
+background-image:url(fortune11.png);	
+width:300px;
+height:300px;
+}
+
+
+.thirteen {
+background-image:url(fortune13.png);	
+width:300px;
+height:300px;
+}
+
+.fourteen {
+background-image:url(fortune14.png);	
+width:300px;
+height:300px;
+}
+
+
+
+
+
+
+
 .hide {
 opacity:0;
-
-
-
-
 }
 
 
