@@ -1,0 +1,42 @@
+h1 {
+color: rgb(239,62,45);
+font-family: HelveticaNeue-Bold, sans-serif;
+font-size: 26px;
+}
+
+.articletitle {
+font-family: trajan-pro-3, serif;
+font-size: 24px;
+line-height: 27px;	
+color: black;
+}
+
+.nameofauthor {
+color: black;
+font-family: HelveticaNeue-Light, sans-serif;
+font-size: 16px;
+}
+
+p {
+color: black;
+font-family: HelveticaNeue-Light, sans-serif;
+font-size: 14px;
+}
+
+.pullquote {
+font-family: trajan-pro-3, serif;
+font-size: 24px;
+line-height: 27px;	
+color: black;
+}
+
+.caption {
+font-family: HelveticaNeue-Light, sans-serif;
+font-size: 9px;
+}
+
+img {
+width: 360px;
+height: 500px;
+}
+
