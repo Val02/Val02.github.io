@@ -36,6 +36,22 @@ font-family: HelveticaNeue-Light, sans-serif;
 font-size: 17px;
 }
 
+.firstcharacter {
+ color: rgb(239,62,45);
+  float: left;
+  font-family: HelveticaNeue-Light, sans-serif;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+
+
+
+
+}
 
 
 p {
