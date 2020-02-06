@@ -1,11 +1,10 @@
-
 h1 {
 color: rgb(239,62,45);
 font-family: HelveticaNeue-Bold, sans-serif;
 font-size: 26px;
 }
 
-.numberone {
+.numbertwo {
 font-family: trajan-pro-3, serif;
 font-size: 24px;
 color: rgb(239,62,45);
@@ -14,13 +13,13 @@ top:72px;
 left:326px;
 }
 
-.numbertwoatbottom {
+.numberthreeatbottom {
 font-family: trajan-pro-3, serif;
 font-size: 24px;
 color: black;
 position: absolute;
-top:2260px;
-left:326px;
+top: px;
+left: px;
 }
 
 .articletitle {
@@ -36,12 +35,30 @@ font-family: HelveticaNeue-Light, sans-serif;
 font-size: 17px;
 }
 
-
-
 p {
 color: black;
 font-family: HelveticaNeue-Light, sans-serif;
 font-size: 14px;
+}
+
+.captionone {
+font-family: HelveticaNeue-Light, sans-serif;
+font-size: 9px;
+}
+
+.captiontwo {
+font-family: HelveticaNeue-Light, sans-serif;
+font-size: 9px;
+}
+
+
+
+.image1dimensions {
+width: 360px;
+}
+
+.image2dimensions {
+width: 360px;
 }
 
 .pullquote {
@@ -54,16 +71,24 @@ margin-left: auto;
 margin-right: auto;
 }
 
-.caption {
-font-family: HelveticaNeue-Light, sans-serif;
-font-size: 9px;
+.numberthreeatbottom {
+font-family: trajan-pro-3, serif;
+font-size: 24px;
+color: black;
 position: absolute;
+top:2595px;
+left:326px;
 }
 
-img {
-width: 360px;
-height: 500px;
-}
+
+
+
+
+
+
+
+
+
 
 
 
@@ -112,44 +137,43 @@ transform: rotate(-45deg);
 
 
 
-.startofarrow2 {
-width: 1.5px;
-height: 15px;
-background-color: rgb(239,62,45);
-position: absolute;
-top:760px; 
-left:50px;
-transform: rotate(90deg);
-}
 
-.arrowline2 {
-width: 1.5px;
-height: 379px;
-background-color: rgb(239,62,45);
-position: absolute;
-top:768px;
-left:50px;
-}
 
-.arrowside3 {
-width:1.5px;
-height:11px;
-background-color: rgb(239,62,45);
-position: absolute;
-top:1137px;
-left:54px;
-transform: rotate(45deg);
-}
 
-.arrowside4 {
-width: 1.5px;
-height:11px;
-background-color: rgb(239,62,45);
-position: absolute;
-top:1137px;
-left:46px;
-transform: rotate(-45deg);
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -160,7 +184,7 @@ width: 1.5px;
 height: 17px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2294px;
+top:2629px;
 left:9px;
 }
 
@@ -169,7 +193,7 @@ width: 1.5px;
 height: 300px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2152px;
+top:2487px;
 left:160px;
 transform: rotate(90deg);
 }
@@ -179,7 +203,7 @@ width:1.5px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2300px;
+top:2635px;
 left:308px;
 transform: rotate(45deg);
 }
@@ -189,14 +213,7 @@ width:1.5px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2294px;
+top:2629px;
 left:308px;
 transform: rotate(-45deg);
 }
-
-
-
-
-
-
-
