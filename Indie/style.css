@@ -5,6 +5,10 @@ font-size: 60px;
 line-height: 60px;
 }
 
+a {
+color: rgb(239,62,45);
+}
+
 .zinediscription {
 font-family: trajan-pro-3, serif;
 font-size: 21px;
