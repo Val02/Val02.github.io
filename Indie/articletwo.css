@@ -35,7 +35,7 @@ font-size: 17px;
   color: rgb(239,62,45);
   float: left;
   font-family: HelveticaNeue-Light, sans-serif;
-  font-size: 75px;
+  font-size: 80px;
   line-height: 60px;
   padding-top: 4px;
   padding-right: 8px;
@@ -47,6 +47,7 @@ p {
 color: black;
 font-family: HelveticaNeue-Light, sans-serif;
 font-size: 16px;
+line-height: 22px
 }
 
 .caption {
@@ -54,6 +55,7 @@ font-family: HelveticaNeue-Light, sans-serif;
 font-size: 11px;
 position: absolute;
 width: 360px;
+line-height:15px;
 }
 
 
@@ -82,7 +84,7 @@ font-family: trajan-pro-3, serif;
 font-size: 24px;
 color: black;
 position: absolute;
-top:2835px;
+top:3135px;
 left:326px;
 }
 
@@ -152,7 +154,7 @@ width: 2px;
 height: 15px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1262px; 
+top:1372px; 
 left:50px;
 transform: rotate(90deg);
 }
@@ -162,7 +164,7 @@ width: 2px;
 height: 487px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1270px;
+top:1380px;
 left:50px;
 }
 
@@ -171,7 +173,7 @@ width:2px;
 height:11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1749px;
+top:1859px;
 left:54px;
 transform: rotate(45deg);
 }
@@ -181,7 +183,7 @@ width: 2px;
 height:11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1749px;
+top:1859px;
 left:46px;
 transform: rotate(-45deg);
 }
@@ -227,7 +229,7 @@ width: 2px;
 height: 17px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2869px;
+top:3159px;
 left:9px;
 }
 
@@ -236,7 +238,7 @@ width: 2px;
 height: 300px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2727px;
+top:3017px;
 left:160px;
 transform: rotate(90deg);
 }
@@ -246,7 +248,7 @@ width:2px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2875px;
+top:3165px;
 left:308px;
 transform: rotate(45deg);
 }
@@ -256,7 +258,7 @@ width:2px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top: 2869px;
+top: 3159px;
 left:308px;
 transform: rotate(-45deg);
 }

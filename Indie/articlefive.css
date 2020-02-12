@@ -21,7 +21,7 @@ font-family: trajan-pro-3, serif;
 font-size: 24px;
 color: black;
 position: absolute;
-top:3495px;
+top:3833px;
 left:290px;
 }
 
@@ -43,7 +43,7 @@ font-size: 17px;
   color: rgb(239,62,45);
   float: left;
   font-family: HelveticaNeue-Light, sans-serif;
-  font-size: 75px;
+  font-size: 80px;
   line-height: 60px;
   padding-top: 4px;
   padding-right: 8px;
@@ -54,6 +54,7 @@ p {
 color: black;
 font-family: HelveticaNeue-Light, sans-serif;
 font-size: 16px;
+line-height: 22px;
 }
 
 
@@ -76,6 +77,7 @@ margin-right: auto;
 font-family: HelveticaNeue-Light, sans-serif;
 font-size: 11px;
 width:360px;
+line-height:15px;
 }
 
 
@@ -144,7 +146,7 @@ width: 2px;
 height: 15px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1372px; 
+top:1532px; 
 left:50px;
 transform: rotate(90deg);
 }
@@ -154,7 +156,7 @@ width: 2px;
 height: 435px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1380px;
+top:1540px;
 left:50px;
 }
 
@@ -163,7 +165,7 @@ width:2px;
 height:11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1805px;
+top:1965px;
 left:54px;
 transform: rotate(45deg);
 }
@@ -173,7 +175,7 @@ width: 2px;
 height:11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1805px;
+top:1965px;
 left:46px;
 transform: rotate(-45deg);
 }
@@ -187,7 +189,7 @@ width: 2px;
 height: 17px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:3529px;
+top:3864px;
 left:9px;
 }
 
@@ -196,7 +198,7 @@ width: 2px;
 height: 267px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:3404px;
+top:3739px;
 left:144px;
 transform: rotate(90deg);
 }
@@ -206,7 +208,7 @@ width:2px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:3535px;
+top:3870px;
 left:274px;
 transform: rotate(45deg);
 }
@@ -216,7 +218,7 @@ width:2px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:3529px;
+top:3864px;
 left:274px;
 transform: rotate(-45deg);
 }

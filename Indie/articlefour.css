@@ -32,7 +32,7 @@ font-family: trajan-pro-3, serif;
 font-size: 24px;
 color: black;
 position: absolute;
-top:4980px;
+top:5380px;
 left:326px;
 }
 
@@ -53,7 +53,9 @@ p {
 color: black;
 font-family: HelveticaNeue-Light, sans-serif;
 font-size: 16px;
+line-height: 22px;
 }
+
 
 
 .imagedimensions {
@@ -64,13 +66,14 @@ width: 360px;
 font-family: HelveticaNeue-Light, sans-serif;
 font-size: 11px;
 width:360px;
+line-height:15px;
 }
 
 .firstcharacter {
   color: rgb(239,62,45);
   float: left;
   font-family: HelveticaNeue-Light, sans-serif;
-  font-size: 75px;
+  font-size: 80px;
   line-height: 60px;
   padding-top: 4px;
   padding-right: 8px;
@@ -153,7 +156,7 @@ width: 2px;
 height: 15px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1630px; 
+top:1750px; 
 left:50px;
 transform: rotate(90deg);
 }
@@ -163,7 +166,7 @@ width: 2px;
 height: 270px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1637px;
+top:1757px;
 left:50px;
 }
 
@@ -172,7 +175,7 @@ width:2px;
 height:11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1900px;
+top:2020px;
 left:54px;
 transform: rotate(45deg);
 }
@@ -182,7 +185,7 @@ width: 2px;
 height:11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1900px;
+top:2020px;
 left:46px;
 transform: rotate(-45deg);
 }
@@ -197,7 +200,7 @@ width: 2px;
 height: 17px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:5012px;
+top:5406px;
 left:9px;
 }
 
@@ -206,7 +209,7 @@ width: 2px;
 height: 300px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:4871px;
+top:5266px;
 left:160px;
 transform: rotate(90deg);
 }
@@ -216,7 +219,7 @@ width:2px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:5019px;
+top:5414px;
 left:308px;
 transform: rotate(45deg);
 }
@@ -226,7 +229,7 @@ width:2px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:5012px;
+top:5406px;
 left:308px;
 transform: rotate(-45deg);
 }

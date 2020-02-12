@@ -23,7 +23,7 @@ font-family: trajan-pro-3, serif;
 font-size: 24px;
 color: black;
 position: absolute;
-top:2465px;
+top:2723px;
 left:326px;
 }
 
@@ -46,6 +46,7 @@ p {
 color: black;
 font-family: HelveticaNeue-Light, sans-serif;
 font-size: 16px;
+line-height: 22px
 }
 
 .pullquote {
@@ -63,6 +64,7 @@ margin-right: auto;
 font-family: HelveticaNeue-Light, sans-serif;
 font-size: 11px;
 width:360px;
+line-height:15px;
 }
 
 img {
@@ -74,7 +76,7 @@ height: 500px;
   color: rgb(239,62,45);
   float: left;
   font-family: HelveticaNeue-Light, sans-serif;
-  font-size: 75px;
+  font-size: 80px;
   line-height: 60px;
   padding-top: 4px;
   padding-right: 8px;
@@ -135,7 +137,7 @@ width: 2px;
 height: 15px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:857px; 
+top:962px; 
 left:50px;
 transform: rotate(90deg);
 }
@@ -145,7 +147,7 @@ width: 2px;
 height: 379px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:865px;
+top:970px;
 left:50px;
 }
 
@@ -154,7 +156,7 @@ width:2px;
 height:11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1234px;
+top:1339px;
 left:54px;
 transform: rotate(45deg);
 }
@@ -164,7 +166,7 @@ width: 2px;
 height:11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:1234px;
+top:1339px;
 left:46px;
 transform: rotate(-45deg);
 }
@@ -178,7 +180,7 @@ width: 2px;
 height: 17px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2499px;
+top:2750px;
 left:9px;
 }
 
@@ -187,7 +189,7 @@ width: 2px;
 height: 300px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2357px;
+top:2608px;
 left:160px;
 transform: rotate(90deg);
 }
@@ -197,7 +199,7 @@ width:2px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2505px;
+top:2756px;
 left:308px;
 transform: rotate(45deg);
 }
@@ -207,9 +209,10 @@ width:2px;
 height: 11px;
 background-color: rgb(239,62,45);
 position: absolute;
-top:2499px;
+top:2750px;
 left:308px;
 transform: rotate(-45deg);
+
 }
 
 
