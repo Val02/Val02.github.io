@@ -1,0 +1,131 @@
+
+img.bg {
+min-height: 100%;
+min-width: 1440px;
+width: 100%;
+height: auto;
+position: fixed;
+top: 0;
+left: 0;
+}
+
+
+@media screen and (max-width: 1024px) { 
+  img.bg {
+    left: 50%;
+    margin-left: -512px; 
+  }
+}
+
+
+
+.yoyooneback {
+position: absolute;
+top:340px;
+left:61px;
+width:360px;
+height:360px;
+}
+
+
+.yoyotwoback {
+position: absolute;
+top:435px;
+left:540px;
+width:360px;
+height:360px;
+}
+
+.yoyothreeback {
+position: absolute;
+top:210px; 
+left:1014px;
+width:360px;
+height:360px;
+}
+
+.yoyoonefront {
+position: absolute;
+top:348px; 
+left:26px;
+width:360px;
+height:360px;
+animation-name: animationA;
+animation-duration: 2s;
+animation-timing-function: linear;
+animation-iteration-count: infinite; 
+}
+
+.yoyotwofront {
+position: absolute;
+top:415px;
+left:520px;
+width:360px;
+height:360px;
+animation-name: animationA;
+animation-duration: 10s;
+animation-timing-function: linear;
+animation-iteration-count: infinite; 
+}
+
+.yoyothreefront {
+position: absolute;
+top:240px; 
+left:1014px;
+width:360px;
+height:360px;
+animation-name: animationA;
+animation-duration: 0.75s;
+animation-timing-function: linear;
+animation-iteration-count: infinite; 
+}
+
+
+@keyframes animationA {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+img.alarmbg {
+min-height: 100%;
+min-width: 1440px;
+width: 100%;
+height: auto;
+position: fixed;
+top: 0;
+left: 0;
+}
+
+@media screen and (max-width: 1024px) { 
+  img.bg {
+    left: 50%;
+    margin-left: -512px; 
+  }
+}
+
+
+.snoozebutton {
+position: absolute;
+top:400px; 
+left:924px;
+width:300px;
+}
+
+.hide {
+display: none;
+}
+
+
+
+
+
+
+
