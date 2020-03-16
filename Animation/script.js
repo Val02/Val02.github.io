@@ -10,5 +10,5 @@ $(document).ready(function(){
     $(".yoyothreefront").addClass("hide");
     $(".alarmbg").removeClass("hide");
     $(".snoozebutton").removeClass("hide");
-  }, 6000);
+  }, 10000);
 });
