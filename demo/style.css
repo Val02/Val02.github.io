@@ -47,7 +47,7 @@ body {
   height: 40px;
   line-height: 40px;
   border-radius: 50%;
-  background-color: rgb(243, 128, 25);
+  background-color: rgb(220, 109, 170);
   color: white;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
@@ -71,8 +71,8 @@ body {
   position: absolute;
   bottom: 80px;
   left: 400px;
-  width: 300px;
-  height: 300px;
+  width: 280px;
+  height: 280px;
   background-image: url("./img/idling-sprite.png");
   animation-name: spriteSheet;
   animation-duration: 1000ms;
@@ -112,13 +112,13 @@ body {
 
 .npc {
   position: absolute;
-  width: 270px;
-  height: 270px;
+  width: 250px;
+  height: 250px;
   bottom: 490px;
   background-image: url("./img/npc-sprite.png");
   background-size: cover;
   animation-name: spriteSheet;
-  animation-duration: 500ms;
+  animation-duration: 800ms;
   animation-timing-function: steps(2); /* number of frames in sprite (not counting the final blank space) */
   animation-iteration-count: infinite;  
   pointer-events: none;
@@ -126,6 +126,7 @@ body {
 
 .npc.was-interacted {
   opacity: 0;
+  background-image: url("./img/npc-was-interacted.png");
   transition: opacity 400ms linear;
 }
 
